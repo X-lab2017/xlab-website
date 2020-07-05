@@ -28,10 +28,10 @@ education:
   courses:
   - course: MEng in Computer Science
     institution: East China Normal University
-    year: 2022
+    year: 2023
   - course: MEng in Digital Media Technology
     institution: Chengdu University of Information Technology
-    year: 2016
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
