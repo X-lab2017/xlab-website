@@ -9,9 +9,7 @@
 * **Software**: [Git][git-install], and [Hugo][hugo-install]. As an example of working configuration:
 ```bash
 $ git --version
-$ git version 2.23.0
 $ hugo version
-$ Hugo Static Site Generator v0.72.0-8A7EF3CF/extended darwin/amd64 BuildDate: 2020-05-31T12:12:33Z
 ```
 
 * **Hardware**: 2 CPUs, 8GB memory RAM.
@@ -34,12 +32,21 @@ $ cd xlab-website
 
 3. Run the following command:
 ```bash
-$ rm -r themes/academic/
 $ git submodule update --init --recursive
+$ git clone https://github.com/gcushen/hugo-academic.git themes/academic
 $ hugo server
 ```
 
 The site will be ready after a while in `http://localhost:1313`.
+
+4. Git commit:
+Since the **Git cache of theme `academic`** comflict with the **Git of our main part `master`**, we need to remove it for `git commit`.
+```bash
+$ rm -r themes/academic/
+$ git add .
+$ git commit -m "<your commit name>"
+$ git push
+```
 
 ## Support
 
