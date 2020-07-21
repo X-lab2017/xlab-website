@@ -26,16 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Big Data"
-     tag = "Big Data"
-  
-   [[content.filter_button]]
-     name = "Cloud Computing"
-     tag = "Cloud Computing"
-
-   [[content.filter_button]]
-     name = "Open Source"
-     tag = "Open Source"
+     name = "Recommender System"
+     tag = "Recommender System"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
