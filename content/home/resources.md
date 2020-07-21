@@ -21,21 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "开源软件"
+  title = "网课推荐系统"
   url = ""
   certificate_url = ""
   date_start = "2020-10-01"
   date_end = ""
-  description = "OpenEdx、Canvas、Jupyter Lab、KNIME、Scratch、BlockPy"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "顶级会议列表"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-10-01"
-  date_end = ""
-  description = ""
+  description = "线上教育平台的大数据网课推荐系统"
 
 +++
