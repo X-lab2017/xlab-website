@@ -1,6 +1,6 @@
 ---
 # Display name
-title: X-Lab
+title: 网课推荐系统
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: 技术传播文明，践行同步世界
+role: 在知识的天空中自由翱翔
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University
-  url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 拥抱开源，热爱生活
+bio: 海量数据分析，更加便捷的使用，精准获取用户需求
 
 interests[]:
 - Advocating lofty academic feelings and technical feelings!
@@ -73,17 +71,24 @@ user_groups:
 - admin
 ---
 
-**X-Lab** is a combination of two leading and pioneering laboratories from **computer science** and **data science and engineering** respectively in Tongji University (同济大学) and East China Normal University (华东师范大学).The lab is supported by a number of core members, including doctorial supervisors, Ph.D students, master students and undergraduate students.
+您还在因为可供选择的网课繁多，想获取知识却无从下手吗？
+​
+一款基于用户评价与推荐的智能网课推荐系统，专为懂你而生。
+​
+在为丰富自我而奋斗的道路上，多一位志同道合的伙伴吧！
 
-**X-Lab** is an intercross multi-discipline, cutting-edge research lab which focuses on the following research domains: **Cloud Computing, Big Data, Data Intelligence,** and **Education Science & Technology**.
+- 如果您是一位为选课而头疼的大学生，害怕因一时兴起，“选课一时爽，期末火葬场”，不妨来尝试网课推荐系统。
+​
+- 如果您是一位勤奋好学的中学生，为中高考磨刀却迷失了学习的方向，不妨来尝试网课推荐系统。
+​
+- 如果您是一位育儿父母，不知如何教育宝宝，培养其正确的价值观，不妨来尝试网课推荐系统。
+​
 
-With regard to the lab culture, we keep all along holding the several opinions below:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
-- Stay hungry, stay foolish
 
-Your attention to our lab would be highly appreciated. It’s not only our pursuit but also our faith endeavoring to build a harmonious team with a strong sense of belonging: mentors and students like one family!
+数据化的时代，我们每个人的尝试，都是对系统最大的支持！
 
-<font color='orangered'>* We are always looking for highly-motivated students to work with us on the exciting area of computer science. If you are interested, please contact us by email.</font>
+1. 可视化的平台，根据用户历史记录、其他用户的评价与课程内容，向用户客观地推荐网课视频，已解决用户选课困难的问题。
+​
+2. 智能的分析，从用户的兴趣点、薄弱环境突破，筛选出最优推荐序列，供用户参考与学习。
+​
+3. 允许用户对学习过的课程与授课老师进行客观评价，并筛选有价值的评价，作为模型改进的样本与用户参考的标准。
