@@ -1,6 +1,6 @@
 # CKAS Official Website
 
- Official website of project CKAS, you can view the site on http://www.x-lab.info.
+ Official website of project CKAS, you can view the site on https://gonggongjohn.github.io/ckas-website.
 
 ## Prerequisites
 
@@ -38,6 +38,17 @@ $ hugo server
 ```
 
 The site will be ready after a while in `http://localhost:1313`.
+
+4. Deploy to Github Pages:
+
+```bash
+$ hugo -d docs
+$ git add .
+$ git commit -m "Commit Message"
+$ git push -u origin master
+```
+
+The site will be self-deployed to the target website, namely https://gonggongjohn.github.io/ckas-website.
 
 ## Support
 
