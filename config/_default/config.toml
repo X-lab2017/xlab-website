@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "X-Lab - 技术传播文明，践行同步世界"
+title = "CKAS - 个性化高效学术索引系统"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.x-lab.info/"
+baseurl = "http://gonggongjohn.github.io/ckas-website/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} X-Lab"
+copyright = "&copy; {year} GONGGONGJOHN"
 
 ############################
 ## Advanced options below ##
