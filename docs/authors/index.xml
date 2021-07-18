@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/authors/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 GONGGONGJOHN</copyright><lastBuildDate>Sun, 07 Jun 2020 16:43:13 +0800</lastBuildDate>
+    <image>
+      <url>http://gonggongjohn.github.io/ckas-website/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
+      <title>Authors</title>
+      <link>http://gonggongjohn.github.io/ckas-website/authors/</link>
+    </image>
+    
+    <item>
+      <title>苗晓变</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/%E8%8B%97%E6%99%93%E5%8F%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/author/%E8%8B%97%E6%99%93%E5%8F%98/</guid>
+      <description>&lt;h2 id=&#34;a-new-member-in-x-lab&#34;&gt;A new member in X-Lab.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>邹韬</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/%E9%82%B9%E9%9F%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/author/%E9%82%B9%E9%9F%AC/</guid>
+      <description>&lt;h2 id=&#34;k&#34;&gt;K.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
