@@ -10,17 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: 技术传播文明，践行同步世界
+role: 寻找捷径是人类进步的方式
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University
-  url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 拥抱开源，热爱生活
+bio: 知识赋能，赋能善学
 
 interests[]:
 - Advocating lofty academic feelings and technical feelings!
@@ -57,7 +55,7 @@ social:
 # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/X-lab2017
+  link: https://github.com/gonggongjohn/CKAS
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,17 +71,16 @@ user_groups:
 - admin
 ---
 
-**X-Lab** is a combination of two leading and pioneering laboratories from **computer science** and **data science and engineering** respectively in Tongji University (同济大学) and East China Normal University (华东师范大学).The lab is supported by a number of core members, including doctorial supervisors, Ph.D students, master students and undergraduate students.
+**X-Lab** 是一个基于自然语言处理的**学术资料索引系统**。致力于帮助用户体验少检索、少筛选、易接受、更高效的学术之旅。在精简用户学习成本的同时，也尝试提供更精准的反馈，让不同知识背景的用户找到适合自己的学习路径，从而在学术阶段就为其打下良好的基础。我们的研发团队由来自华东师范大学数据学院大一至大三的本科学生组成。
 
-**X-Lab** is an intercross multi-discipline, cutting-edge research lab which focuses on the following research domains: **Cloud Computing, Big Data, Data Intelligence,** and **Education Science & Technology**.
+**X-Lab** 是一个多领域交叉的前沿开发项目。实现该项目所利用的主要技术点包括:**NPL(自然语言处理)**, **知识图谱** 和 **推荐算法**等。
 
-With regard to the lab culture, we keep all along holding the several opinions below:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
-- Stay hungry, stay foolish
+为满足客户需求，我们的主要目标有:
+- 针对初学者用户对于新知识的学习需求，针对性的为其提供相关知识点的快速索引
+- 针对用户对于知识的回顾复习需求，提供相关知识点的快速索引助其形成完整的知识脉络
+- 针对用户在阅读论文时的查阅需求，从数据库中查找相关知识点及定义，节省客户时间成本
 
-Your attention to our lab would be highly appreciated. It’s not only our pursuit but also our faith endeavoring to build a harmonious team with a strong sense of belonging: mentors and students like one family!
+团队的宗旨是：知识为本，服务至上，科技创新。相信在这样一个信息化时代，一个善于创新的团队可以走的更远。
 
-<font color='orangered'>* We are always looking for highly-motivated students to work with us on the exciting area of computer science. If you are interested, please contact us by email.</font>
+
+<font color='orangered'>我们一直在寻找积极进取的学生与我们一起在令人兴奋的计算机科学领域工作。如果您有兴趣，请通过电子邮件与我们联系。</font>

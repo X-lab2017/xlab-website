@@ -885,13 +885,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
+Three 
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -1607,20 +1607,11 @@ USA, February 15-19, 2014.&lt;/li&gt;
     </item>
     
     <item>
-      <title>苗晓变</title>
-      <link>http://gonggongjohn.github.io/ckas-website/author/%E8%8B%97%E6%99%93%E5%8F%98/</link>
+      <title>田清远</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/%E7%94%B0%E6%B8%85%E8%BF%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gonggongjohn.github.io/ckas-website/author/%E8%8B%97%E6%99%93%E5%8F%98/</guid>
-      <description>&lt;h2 id=&#34;a-new-member-in-x-lab&#34;&gt;A new member in X-Lab.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>邹韬</title>
-      <link>http://gonggongjohn.github.io/ckas-website/author/%E9%82%B9%E9%9F%AC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://gonggongjohn.github.io/ckas-website/author/%E9%82%B9%E9%9F%AC/</guid>
-      <description>&lt;h2 id=&#34;k&#34;&gt;K.&lt;/h2&gt;
+      <guid>http://gonggongjohn.github.io/ckas-website/author/%E7%94%B0%E6%B8%85%E8%BF%9C/</guid>
+      <description>&lt;h2 id=&#34;make-it&#34;&gt;Make it.&lt;/h2&gt;
 </description>
     </item>
     

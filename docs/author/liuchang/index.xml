@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>liuchang | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/author/liuchang/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/author/liuchang/index.xml" rel="self" type="application/rss+xml" />
+    <description>liuchang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 GONGGONGJOHN</copyright><lastBuildDate>Sat, 06 Jun 2020 14:41:40 +0800</lastBuildDate>
+    <image>
+      <url>http://gonggongjohn.github.io/ckas-website/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
+      <title>liuchang</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/liuchang/</link>
+    </image>
+    
+    <item>
+      <title>GitCourse</title>
+      <link>http://gonggongjohn.github.io/ckas-website/project/gitcourse/</link>
+      <pubDate>Sat, 06 Jun 2020 14:41:40 +0800</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/project/gitcourse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
