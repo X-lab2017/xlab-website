@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020硕
+role: 2019
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,19 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 技术传播文明，践行同步世界
+bio: 科技向善
 
 interests:
-- playing chess
+- playing tennis
 - reading
 
 
 education:
   courses:
-  - course: MEng in Computer technique
+  - course: BEng in Computer technique
     institution: East China Normal University
     year: 2023
-  - course: BBM in Information Management and Information System
-    institution: Ningbo University
-    year: 2020
+
   
 
 # Social/Academic Networking
@@ -42,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:weng_zhen_jie@163.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cjleiwork@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/wengzhenjie
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,11 +51,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "weng_zhen_jie@163.com"
+email: "cjleiwork@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 
