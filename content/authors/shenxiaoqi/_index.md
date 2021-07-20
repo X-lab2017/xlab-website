@@ -14,32 +14,20 @@ role: Front-end development
 
 # Organizations/Affiliations
 organizations:
-# - name: Tongji University
-#   url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 技术传播文明，践行同步世界
 
-interests[]:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
+interests:
 - Stay hungry, stay foolish
 
-education[]:
+education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Data Science And Engineering
+    institution: East China Normal University
+    year: 2022 (Scheduled)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +58,6 @@ email: "10185501401@stu.ecnu.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 

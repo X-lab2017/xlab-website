@@ -10,14 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020
+role: Backend Development
 
 # Organizations/Affiliations
 organizations:
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
-- name: Central China Normal University
-  url: "http://www.ccnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: hello world!
@@ -27,12 +25,9 @@ interests:
 
 education:
   courses:
-  - course: MEng in Data Science and Engineering
-    institution: East China Normal University
-    year: 2023
   - course: BEng in Internet of Things
-    institution: Central China Normal University
-    year: 2020
+    institution: East China Normal University
+    year: 2024 (Scheduled)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +52,7 @@ email: "2434704642@qq.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 
 ## Make it.

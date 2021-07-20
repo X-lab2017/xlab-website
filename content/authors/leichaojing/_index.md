@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2019
+role: Frontend Development
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: BEng in Computer technique
     institution: East China Normal University
-    year: 2023
+    year: 2023 (Scheduled)
 
   
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2020本
+role: Backend Development
 
 # Organizations/Affiliations
 organizations:
@@ -20,24 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 技术传播文明，践行同步世界
 
-interests[]:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
+interests:
 - Stay hungry, stay foolish
 
-education[]:
+education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Data Science And Engineering
+    institution: East China Normal University
+    year: 2024 (Scheduled)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,15 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/X-lab2017
+  link: https://github.com/Y-jiji
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,9 +52,6 @@ email: "10205501401@stu.ecnu.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 
-## 学术兴趣
-
-随机游走, GNN
