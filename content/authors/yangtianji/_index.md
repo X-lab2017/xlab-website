@@ -10,12 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 2018
+role: 2020本
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University
-  url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
 
@@ -65,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "51185100016@stu.ecnu.edu.cn"
+email: "10205501401@stu.ecnu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,3 +71,6 @@ user_groups:
 - Master
 ---
 
+## 学术兴趣
+
+随机游走, GNN
