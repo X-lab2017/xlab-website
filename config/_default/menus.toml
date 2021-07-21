@@ -14,17 +14,12 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Concept"
   url = "project/"
   weight = 30
 
-[[main]]
-  name = "Resources"
-  url = "#resources"
-  weight = 50
-
  [[main]]
-  name = "Blog"
+  name = "Support"
   url = "post/"
   weight = 60 
 
