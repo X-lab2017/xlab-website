@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Front-end development
+role: Frontend development
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Data Science And Engineering
+  - course: BEng in Data Science And Engineering
     institution: East China Normal University
     year: 2022 (Scheduled)
 

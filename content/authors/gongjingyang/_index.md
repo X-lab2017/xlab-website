@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BBM in Data Science And Engineering
+  - course: BEng in Data Science And Engineering
     institution: East China Nornal University
-    year: 2023 (Schedule)
+    year: 2023 (Scheduled)
   
 
 # Social/Academic Networking

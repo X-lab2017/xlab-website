@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Data Science And Engineering
+  - course: BEng in Data Science And Engineering
     institution: East China Normal University
     year: 2024 (Scheduled)
 
