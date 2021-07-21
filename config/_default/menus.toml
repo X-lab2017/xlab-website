@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "#people"
-  weight = 20
-
-[[main]]
   name = "Concept"
   url = "concept/"
-  weight = 30
+  weight = 20
 
  [[main]]
   name = "Support"
   url = "support/"
-  weight = 60 
+  weight = 30
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

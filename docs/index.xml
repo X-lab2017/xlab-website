@@ -22,11 +22,11 @@
     </item>
     
     <item>
-      <title>PPT of the introduction</title>
+      <title>关于本项目</title>
       <link>http://gonggongjohn.github.io/ckas-website/concept/internal-project/</link>
       <pubDate>Mon, 01 Jun 2020 17:05:58 +0800</pubDate>
       <guid>http://gonggongjohn.github.io/ckas-website/concept/internal-project/</guid>
-      <description>&lt;p&gt;Please click slides to read.&lt;/p&gt;
+      <description>&lt;p&gt;点击上方的slide按钮以进一步了解本项目。&lt;/p&gt;
 </description>
     </item>
     
@@ -35,56 +35,62 @@
       <link>http://gonggongjohn.github.io/ckas-website/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://gonggongjohn.github.io/ckas-website/slides/example/</guid>
-      <description>&lt;h1 id=&#34;how-to-read-a-book-on-our-website&#34;&gt;How to read a book on our website&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;树蛙---为您带来最流畅的学术阅读体验&#34;&gt;树蛙 - 为您带来最流畅的学术阅读体验&lt;/h1&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://github.com/gonggongjohn/CKAS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; | 
-&lt;a href=&#34;https://gonggongjohn.github.io/ckas-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/gonggongjohn/CKAS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;项目仓库&lt;/a&gt; | 
+&lt;a href=&#34;https://gonggongjohn.github.io/ckas-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;介绍网站&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;find-your-misunderstanding&#34;&gt;Find your misunderstanding&lt;/h2&gt;
+&lt;h2 id=&#34;阅读教材时的痛点&#34;&gt;阅读教材时的痛点&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Find a book you want to read&lt;/li&gt;
-&lt;li&gt;Find a knowledge point while reading&lt;/li&gt;
-&lt;li&gt;Clik it&lt;/li&gt;
+&lt;li&gt;“检索定位很麻烦”：对知识点不熟悉，来回翻看影响阅读体验&lt;/li&gt;
+&lt;li&gt;“知识碎片化”：书籍、博客等资料丰富却未整合，知识分散在多本书里&lt;/li&gt;
+&lt;li&gt;“不成知识体系”：想要快速掌握某一知识点，不知要补哪些基础知识&lt;/li&gt;
+&lt;li&gt;“教材缺乏个性化”：传统教材千人一面，不针对用户的背景和兴趣&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;show&#34;&gt;Show&lt;/h2&gt;
-&lt;p&gt;We will show the result on the second screen&lt;/p&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-Book
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;|&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Result
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;our-result&#34;&gt;Our Result&lt;/h2&gt;
-&lt;p&gt;We will show you:&lt;/p&gt;
+&lt;h2 id=&#34;阅读学术文章时的痛点&#34;&gt;阅读学术文章时的痛点&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The definition&lt;/li&gt;
-&lt;li&gt;The example which fit well to the user&lt;/li&gt;
-&lt;li&gt;The application&lt;/li&gt;
+&lt;li&gt;“专有名词不了解”：跨学科、新兴学科文献阅读时遇到障碍&lt;/li&gt;
+&lt;li&gt;“文献管理和引用定位功能不佳”：大量文献翻找起来很麻烦&lt;/li&gt;
+&lt;li&gt;“背景知识学得慢”：想快速掌握某个知识点，却看了很多次要信息&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;design-map&#34;&gt;Design Map&lt;/h2&gt;
+&lt;h2 id=&#34;我们能做什么&#34;&gt;我们能做什么&lt;/h2&gt;
+&lt;p&gt;根据您的知识背景，个性化定制您的阅读体验&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;模糊知识点快速索引&lt;/li&gt;
+&lt;li&gt;根据您的知识背景智能呈现参考资源&lt;/li&gt;
+&lt;li&gt;快速索引专业术语定义和例子&lt;/li&gt;
+&lt;li&gt;文献引用精准定位到句子&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;高效理解只需要三步&#34;&gt;高效理解？只需要三步！&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择一本您想要学习的教材（学术文章）&lt;/li&gt;
+&lt;li&gt;自由阅读&lt;/li&gt;
+&lt;li&gt;不理解某个术语/段落？点击它！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;分屏显示阅读体验不间断&#34;&gt;分屏显示，阅读体验不间断&lt;/h2&gt;
+&lt;h5 id=&#34;阅读界面自动区分主次显示区参考资源渐进式推送使您不再因翻阅其他资料而打断阅读点&#34;&gt;阅读界面自动区分主次显示区，参考资源渐进式推送，使您不再因翻阅其他资料而打断阅读点。&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;split_show.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;系统构架&#34;&gt;系统构架&lt;/h2&gt;
+&lt;h5 id=&#34;我们是如何实现这一系统的&#34;&gt;我们是如何实现这一系统的？&lt;/h5&gt;
 &lt;p&gt;&lt;img src=&#34;slide_img.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;how-we-make-it&#34;&gt;How we make it&lt;/h2&gt;
-&lt;p&gt;There are some of our code&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;  model_config = Dict(model_config)
-      backbone_type = model_config.backbone.pop(&#39;type&#39;)
-      neck_type = model_config.neck.pop(&#39;type&#39;)
-      head_type = model_config.head.pop(&#39;type&#39;)
-      self.backbone = build_backbone(backbone_type, **model_config.backbone)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;技术细节&#34;&gt;技术细节&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;文本检测 &amp;amp; 文字识别&lt;/li&gt;
+&lt;li&gt;词法分析 &amp;amp; 语义关联&lt;/li&gt;
+&lt;li&gt;用户画像 &amp;amp; 特征选择&lt;/li&gt;
+&lt;li&gt;知识图谱 &amp;amp; 推荐系统&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;h1 id=&#34;了解更多&#34;&gt;了解更多？&lt;/h1&gt;
+&lt;p&gt;订阅我们的Github仓库，追踪项目最新讯息！&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/gonggongjohn/CKAS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;项目仓库&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
