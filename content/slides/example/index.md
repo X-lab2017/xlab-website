@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Academic's Slides feature.
+summary: An introduction to our website.
 authors: []
 tags: []
 categories: []
@@ -13,150 +13,61 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# How to read a book on our website
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[GitHub](https://github.com/gonggongjohn/CKAS) | [Website](https://gonggongjohn.github.io/ckas-website/)
 
 ---
 
-## Controls
+## Find your misunderstanding
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- Find a book you want to read
+- Find a knowledge point while reading
+- Clik it
+
 
 ---
 
-## Code Highlighting
+## Show
 
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
+We will show the result on the second screen
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} Book {{% /fragment %}}
+{{% fragment %}} **|** {{% /fragment %}}
+{{% fragment %}} Result {{% /fragment %}}
 
 ---
 
-A fragment can accept two optional parameters:
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+## Our Result
+
+We will show you:
+
+- The definition
+- The example which fit well to the user
+- The application
 
 ---
 
-## Speaker Notes
+## Design Map
 
-Add speaker notes to your presentation
+![avatar](slide_img.png)
 
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
+---
+
+## How we make it
+
+There are some of our code
+
+```python
+  model_config = Dict(model_config)
+      backbone_type = model_config.backbone.pop('type')
+      neck_type = model_config.neck.pop('type')
+      head_type = model_config.head.pop('type')
+      self.backbone = build_backbone(backbone_type, **model_config.backbone)
 ```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
-
----
-
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/img/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/img/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
 ---
 
 # Questions?
