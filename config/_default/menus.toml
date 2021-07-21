@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Concept"
-  url = "project/"
+  url = "concept/"
   weight = 30
 
  [[main]]
   name = "Support"
-  url = "post/"
+  url = "support/"
   weight = 60 
 
 # Link to a PDF of your resume/CV from the menu.
