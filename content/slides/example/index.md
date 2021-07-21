@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# 树蛙 - 为您带来最流畅的学术阅读体验
+# 书蛙 - 为您带来最流畅的学术阅读体验
 
 [项目仓库](https://github.com/gonggongjohn/CKAS) | [介绍网站](https://gonggongjohn.github.io/ckas-website/)
 
