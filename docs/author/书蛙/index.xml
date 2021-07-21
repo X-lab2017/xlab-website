@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | CKAS - 个性化高效学术索引系统</title>
-    <link>http://gonggongjohn.github.io/ckas-website/tag/demo/</link>
-      <atom:link href="http://gonggongjohn.github.io/ckas-website/tag/demo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 GONGGONGJOHN</copyright><lastBuildDate>Mon, 01 Jun 2020 17:05:58 +0800</lastBuildDate>
+    <title>书蛙 | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/author/%E4%B9%A6%E8%9B%99/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/author/%E4%B9%A6%E8%9B%99/index.xml" rel="self" type="application/rss+xml" />
+    <description>书蛙</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 GONGGONGJOHN</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://gonggongjohn.github.io/ckas-website/images/logo_hu3ace0f88f5b266a672736d37108d6485_140636_300x300_fit_lanczos_2.png</url>
-      <title>Demo</title>
-      <link>http://gonggongjohn.github.io/ckas-website/tag/demo/</link>
+      <title>书蛙</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/%E4%B9%A6%E8%9B%99/</link>
     </image>
-    
-    <item>
-      <title>PPT of the introduction</title>
-      <link>http://gonggongjohn.github.io/ckas-website/project/internal-project/</link>
-      <pubDate>Mon, 01 Jun 2020 17:05:58 +0800</pubDate>
-      <guid>http://gonggongjohn.github.io/ckas-website/project/internal-project/</guid>
-      <description>&lt;p&gt;Please click slides to read.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Harmalysis: A Language for the Annotation of Roman Numerals in Symbolic Music Representations</title>
