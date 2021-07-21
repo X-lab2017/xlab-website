@@ -21,7 +21,7 @@ organizations:
 bio: 技术传播文明，践行同步世界
 
 interests:
-- Stay hungry, stay foolish
+- reading
 
 education:
   courses:
