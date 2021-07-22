@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/slides/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Brog</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Slides</title>
+      <link>http://gonggongjohn.github.io/ckas-website/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/slides/example/</guid>
+      <description>&lt;h1 id=&#34;书蛙---为您带来最流畅的学术阅读体验&#34;&gt;书蛙 - 为您带来最流畅的学术阅读体验&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gonggongjohn/CKAS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;项目仓库&lt;/a&gt; | 
+&lt;a href=&#34;https://gonggongjohn.github.io/ckas-website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;介绍网站&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;阅读教材时的痛点&#34;&gt;阅读教材时的痛点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;“检索定位很麻烦”：对知识点不熟悉，来回翻看影响阅读体验&lt;/li&gt;
+&lt;li&gt;“知识碎片化”：书籍、博客等资料丰富却未整合，知识分散在多本书里&lt;/li&gt;
+&lt;li&gt;“不成知识体系”：想要快速掌握某一知识点，不知要补哪些基础知识&lt;/li&gt;
+&lt;li&gt;“教材缺乏个性化”：传统教材千人一面，不针对用户的背景和兴趣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;阅读学术文章时的痛点&#34;&gt;阅读学术文章时的痛点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;“专有名词不了解”：跨学科、新兴学科文献阅读时遇到障碍&lt;/li&gt;
+&lt;li&gt;“文献管理和引用定位功能不佳”：大量文献翻找起来很麻烦&lt;/li&gt;
+&lt;li&gt;“背景知识学得慢”：想快速掌握某个知识点，却看了很多次要信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;我们能做什么&#34;&gt;我们能做什么&lt;/h2&gt;
+&lt;p&gt;根据您的知识背景，个性化定制您的阅读体验&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;模糊知识点快速索引&lt;/li&gt;
+&lt;li&gt;根据您的知识背景智能呈现参考资源&lt;/li&gt;
+&lt;li&gt;快速索引专业术语定义和例子&lt;/li&gt;
+&lt;li&gt;文献引用精准定位到句子&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;高效理解只需要三步&#34;&gt;高效理解？只需要三步！&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择一本您想要学习的教材（学术文章）&lt;/li&gt;
+&lt;li&gt;自由阅读&lt;/li&gt;
+&lt;li&gt;不理解某个术语/段落？点击它！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;分屏显示阅读体验不间断&#34;&gt;分屏显示，阅读体验不间断&lt;/h2&gt;
+&lt;h5 id=&#34;阅读界面自动区分主次显示区参考资源渐进式推送使您不再因翻阅其他资料而打断阅读点&#34;&gt;阅读界面自动区分主次显示区，参考资源渐进式推送，使您不再因翻阅其他资料而打断阅读点。&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;split_show.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;系统构架&#34;&gt;系统构架&lt;/h2&gt;
+&lt;h5 id=&#34;我们是如何实现这一系统的&#34;&gt;我们是如何实现这一系统的？&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;slide_img.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;技术细节&#34;&gt;技术细节&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;文本检测 &amp;amp; 文字识别&lt;/li&gt;
+&lt;li&gt;词法分析 &amp;amp; 语义关联&lt;/li&gt;
+&lt;li&gt;用户画像 &amp;amp; 特征选择&lt;/li&gt;
+&lt;li&gt;知识图谱 &amp;amp; 推荐系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;了解更多&#34;&gt;了解更多？&lt;/h1&gt;
+&lt;p&gt;订阅我们的Github仓库，追踪项目最新讯息！&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/gonggongjohn/CKAS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;项目仓库&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

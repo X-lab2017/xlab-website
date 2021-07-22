@@ -56,7 +56,7 @@ If somebody claims an issue but doesn't follow up for more than two weeks, it's 
 
 ### 2. Fork the repository
 
-Visit [X-lab2017/xlab-website][repo] repo and make your own copy of the repository by **forking** it.
+Visit [gonggongjohn/ckas-website][repo] repo and make your own copy of the repository by **forking** it.
 
 ### 3. Clone the repository
 
@@ -64,8 +64,8 @@ Visit [X-lab2017/xlab-website][repo] repo and make your own copy of the reposito
 
 ```shell
 # replace the XXX with your own user name
-git clone git@github.com:XXX/xlab-website.git
-cd xlab-website
+git clone git@github.com:XXX/ckas-website.git
+cd ckas-website
 ```
 
 ### 4. Create a new branch
@@ -102,7 +102,7 @@ git commit -sm "fix: add license headers (#264)"
 Keep your local repository updated with upstream repository by:
 
 ```shell
-git remote add upstream git@github.com:X-lab2017/xlab-website.git
+git remote add upstream git@github.com:gonggongjohn/ckas-website.git
 git fetch upstream master
 git rebase upstream/master
 ```
@@ -122,7 +122,7 @@ git push -f origin branch-name
 
 ### 9. Create a Pull Request
 
-In GitHub, send a pull request to `X-lab2017/xlab-website`.
+In GitHub, send a pull request to `gonggongjohn/ckas-website`.
 
 Please sign our [Contributor License Agreement (CLA)](#cla) before sending PRs.
 
@@ -181,15 +181,15 @@ changes to be accepted, the CLA must be signed.
 
 [coc]: ./CODE_OF_CONDUCT.md
 
-[new-issue]: https://github.com/X-lab2017/xlab-website/issues/new
+[new-issue]: https://github.com/gonggongjohn/ckas-website/issues/new
 
-[issue-label]: https://github.com/X-lab2017/xlab-website/labels
+[issue-label]: https://github.com/gonggongjohn/ckas-website/labels
 
 [issue-template]: ./.github/ISSUE_TEMPLATE/enhancement.md
 
-[good-first-issues]: https://github.com/X-lab2017/xlab-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+
+[good-first-issues]: https://github.com/gonggongjohn/ckas-website/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+
 
-[repo]: https://github.com/X-lab2017/xlab-website
+[repo]: https://github.com/gonggongjohn/ckas-website
 
 [rules]: ./CODE_RULES.md
 
@@ -197,4 +197,4 @@ changes to be accepted, the CLA must be signed.
 
 [pr-template]: ./.github/PULL_REQUEST_TEMPLATE.md
 
-[cla]: https://cla-assistant.io/X-lab2017/xlab-website
+[cla]: https://cla-assistant.io/gonggongjohn/ckas-website

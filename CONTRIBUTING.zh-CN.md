@@ -31,7 +31,7 @@
 
 ### 2. `Fork` 本仓库
 
-访问 [X-lab2017/xlab-website][repo] 仓库的主页，并 `Fork` 到自己的账号下。
+访问 [gonggongjohn/ckas-website][repo] 仓库的主页，并 `Fork` 到自己的账号下。
 
 ### 3. `Clone` 仓库
 
@@ -39,8 +39,8 @@
 
 ```shell
 # 将下面的 XXX 替换成你自己的用户名
-git clone git@github.com:XXX/xlab-website.git
-cd xlab-website
+git clone git@github.com:XXX/ckas-website.git
+cd ckas-website
 ```
 
 ### 4. 新建 `branch`
@@ -81,7 +81,7 @@ git commit -sm "feat: add personal info (#264)"
 同步上游仓库变更，因为可能有其他人先于你提交到上游仓库，防止冲突：
 
 ```bash
-git remote add upstream git@github.com:X-lab2017/xlab-website.git
+git remote add upstream git@github.com:gonggongjohn/ckas-website.git
 git fetch upstream
 ```
 
@@ -106,7 +106,7 @@ git push -f origin my-fix-branch:my-fix-branch
 
 ### 8. 提 `Pull Request`
 
-在自己仓库的页面上提 `Pull Request` 到上游仓库 `X-lab2017/xlab-website`。
+在自己仓库的页面上提 `Pull Request` 到上游仓库 `gonggongjohn/ckas-website`。
 
 在提交 `Pull Request` 之前，请确保已经签署 [Contributor License Agreement (CLA)](#cla)。
 
@@ -158,10 +158,10 @@ git push -f origin branch-name
 
 完整配置可详见配置文件 [hypertrons.json](./.github/hypertrons.json)。
 
-[new-issue]: https://github.com/X-lab2017/xlab-website/issues/new
-[issue-label]: https://github.com/X-lab2017/xlab-website/labels
+[new-issue]: https://github.com/gonggongjohn/ckas-website/issues/new
+[issue-label]: https://github.com/gonggongjohn/ckas-website/labels
 [issue-template]: ./.github/ISSUE_TEMPLATE/enhancement.md
-[repo]: https://github.com/X-lab2017/xlab-website
+[repo]: https://github.com/gonggongjohn/ckas-website
 [rules]: ./CODE_RULES.md
 [pr-template]: ./.github/PULL_REQUEST_TEMPLATE.md
-[cla]: https://cla-assistant.io/X-lab2017/xlab-website
+[cla]: https://cla-assistant.io/gonggongjohn/ckas-website

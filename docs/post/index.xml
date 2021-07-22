@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/post/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Brog</copyright><lastBuildDate>Wed, 21 Jul 2021 16:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://gonggongjohn.github.io/ckas-website/images/logo_hu7892d0192c27ea479520153ab7f14956_870111_300x300_fit_lanczos_2.png</url>
+      <title>Blog Posts</title>
+      <link>http://gonggongjohn.github.io/ckas-website/post/</link>
+    </image>
+    
+    <item>
+      <title>项目技术细节</title>
+      <link>http://gonggongjohn.github.io/ckas-website/post/writing-technical-content/</link>
+      <pubDate>Wed, 21 Jul 2021 16:00:00 +0800</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/post/writing-technical-content/</guid>
+      <description>&lt;h3 id=&#34;这一板块后续将会存放该项目的技术细节实现及功能运作原理解释&#34;&gt;这一板块后续将会存放该项目的技术细节、实现及功能运作原理解释。&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

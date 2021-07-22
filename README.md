@@ -1,20 +1,18 @@
-# X-lab Official Website
+# CKAS Official Website
 
- Official website of X-lab open laboratory, you can view the site on http://www.x-lab.info.
-
- ![avatar](./static/img/xlab.png)
+ Official website of project CKAS, you can view the site on https://gonggongjohn.github.io/ckas-website.
 
 ## Prerequisites
 
 * **Software**: [Git][git-install], and [Hugo][hugo-install]. As an example of working configuration:
 ```bash
 $ git --version
-$ git version 2.23.0
+$ git version 2.30.1
 $ hugo version
-$ Hugo Static Site Generator v0.72.0-8A7EF3CF/extended darwin/amd64 BuildDate: 2020-05-31T12:12:33Z
+$ hugo v0.85.0+extended darwin/amd64
 ```
 
-* **Hardware**: 2 CPUs, 8GB memory RAM.
+* **Hardware**: At least 2 CPU cores, 8GB memory RAM.
 
 ## Getting started
 
@@ -24,12 +22,12 @@ Steps:
 
 1. Clone this project
 ```bash
-$ git clone git@github.com:X-lab2017/xlab-website.git
+$ git clone git@github.com:gonggongjohn/ckas-website.git
 ```
 
 2. Go to the project folder
 ```
-$ cd xlab-website
+$ cd ckas-website
 ```
 
 3. Run the following command:
@@ -40,6 +38,17 @@ $ hugo server
 ```
 
 The site will be ready after a while in `http://localhost:1313`.
+
+4. Deploy to Github Pages:
+
+```bash
+$ hugo -d docs
+$ git add .
+$ git commit -m "Commit Message"
+$ git push -u origin master
+```
+
+The site will be self-deployed to the target website, namely https://gonggongjohn.github.io/ckas-website.
 
 ## Support
 

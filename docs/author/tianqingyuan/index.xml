@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tianqingyuan | CKAS - 个性化高效学术索引系统</title>
+    <link>http://gonggongjohn.github.io/ckas-website/author/tianqingyuan/</link>
+      <atom:link href="http://gonggongjohn.github.io/ckas-website/author/tianqingyuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>tianqingyuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Brog</copyright><lastBuildDate>Mon, 01 Jun 2020 17:05:58 +0800</lastBuildDate>
+    <image>
+      <url>http://gonggongjohn.github.io/ckas-website/images/logo_hu7892d0192c27ea479520153ab7f14956_870111_300x300_fit_lanczos_2.png</url>
+      <title>tianqingyuan</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/tianqingyuan/</link>
+    </image>
+    
+    <item>
+      <title>关于本项目</title>
+      <link>http://gonggongjohn.github.io/ckas-website/concept/internal-project/</link>
+      <pubDate>Mon, 01 Jun 2020 17:05:58 +0800</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/concept/internal-project/</guid>
+      <description>&lt;p&gt;点击上方的slide按钮以进一步了解本项目。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>田清远</title>
+      <link>http://gonggongjohn.github.io/ckas-website/author/%E7%94%B0%E6%B8%85%E8%BF%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://gonggongjohn.github.io/ckas-website/author/%E7%94%B0%E6%B8%85%E8%BF%9C/</guid>
+      <description>&lt;h2 id=&#34;make-it&#34;&gt;Make it.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

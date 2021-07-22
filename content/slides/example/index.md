@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Academic's Slides feature.
+summary: An introduction to our project.
 authors: []
 tags: []
 categories: []
@@ -13,154 +13,69 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# 书蛙 - 为您带来最流畅的学术阅读体验
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[项目仓库](https://github.com/gonggongjohn/CKAS) | [介绍网站](https://gonggongjohn.github.io/ckas-website/)
 
 ---
 
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+## 阅读教材时的痛点
+  - “检索定位很麻烦”：对知识点不熟悉，来回翻看影响阅读体验
+  - “知识碎片化”：书籍、博客等资料丰富却未整合，知识分散在多本书里
+  - “不成知识体系”：想要快速掌握某一知识点，不知要补哪些基础知识
+  - “教材缺乏个性化”：传统教材千人一面，不针对用户的背景和兴趣
 
 ---
 
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+## 阅读学术文章时的痛点
+- “专有名词不了解”：跨学科、新兴学科文献阅读时遇到障碍
+- “文献管理和引用定位功能不佳”：大量文献翻找起来很麻烦
+- “背景知识学得慢”：想快速掌握某个知识点，却看了很多次要信息
 
 ---
 
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+## 我们能做什么
+根据您的知识背景，个性化定制您的阅读体验
+- 模糊知识点快速索引
+- 根据您的知识背景智能呈现参考资源
+- 快速索引专业术语定义和例子
+- 文献引用精准定位到句子
 
 ---
 
-## Fragments
+## 高效理解？只需要三步！
 
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+- 选择一本您想要学习的教材（学术文章）
+- 自由阅读
+- 不理解某个术语/段落？点击它！
 
 ---
 
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
+## 分屏显示，阅读体验不间断
+##### 阅读界面自动区分主次显示区，参考资源渐进式推送，使您不再因翻阅其他资料而打断阅读点。
+![avatar](split_show.png)
 
 ---
 
-## Themes
+## 系统构架
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+##### 我们是如何实现这一系统的？
+
+![avatar](slide_img.png)
 
 ---
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+## 技术细节
+
+- 文本检测 & 文字识别
+- 词法分析 & 语义关联
+- 用户画像 & 特征选择
+- 知识图谱 & 推荐系统
 
 ---
 
-{{< slide background-image="/img/boards.jpg" >}}
+# 了解更多？
 
-## Custom Slide
+订阅我们的Github仓库，追踪项目最新讯息！
 
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/img/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://spectrum.chat/academic)
-
-[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[项目仓库](https://github.com/gonggongjohn/CKAS)
